@@ -6,27 +6,35 @@
 
 <img src="assets/banner.png" width="100%" alt="Medical data science banner"/>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Lifelines](https://img.shields.io/badge/Lifelines-2C3E50?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
 
 ---
 
-## About me
+## 🧭 Research Radar
 
-I'm a medical student working at the intersection of clinical medicine and data science. Right now I'm preparing for the postgraduate entrance exam (306 西医综合 — physiology, pathology), and in parallel I apply data science to clinical questions: building prediction models, analyzing multi-cohort aging data, and learning the methods that make health research reproducible.
+> 每日自动追踪 PubMed / bioRxiv / medRxiv / arXiv 的最新文献，聚焦临床数据库挖掘、预测模型、免疫学、AI4Medicine。
 
-I care about work that is both clinically meaningful and methodologically honest — risk tools a clinician could actually use, models evaluated on real heterogeneous data, and analyses others can rerun.
+🔭 **科研雷达 (Daily Research Radar)**: [research-site · 124.222.247.34](http://124.222.247.34/)
 
-**Focus areas**
-- Clinical risk prediction (28-day mortality, CVD risk, nomograms)
-- Survival analysis & time-to-event modeling
-- Multi-cohort aging studies
-- Solid tumor biomarkers
-
-**In training**: medicine (in progress) · self-taught data science (Python/R) · 学无止境
+| 板块 | 内容 |
+|------|------|
+| 📡 **科研日报** | 每日文献速递（PubMed / bioRxiv / medRxiv / arXiv）|
+| 🧪 **论文雷达** | 临床数据库挖掘 · 预测模型 · 免疫学指标 · AI4Medicine |
+| 💬 **论文讨论** | 方法与代码交流 |
+| 🗂️ **方法与代码** | 复现管线与工具 |
 
 ---
 
-## Selected projects
+## 🧬 Selected projects
 
 | Project | What it does |
 |---|---|
@@ -36,41 +44,46 @@ I care about work that is both clinically meaningful and methodologically honest
 | [**web_nomo**](https://github.com/mrg223344/web_nomo) | Nomogram-based clinical prediction |
 | [**my-vocab-app**](https://github.com/mrg223344/my-vocab-app) | Vocabulary learning app |
 
-The clinical tools above grew out of a long stretch of web practice repos (web1–08, web206, S523 …) — the learning path behind the work.
+The clinical tools above grew out of a long stretch of web practice repos — the learning path behind the work.
 
 ---
 
-## Skills
+## 🔬 Research focus
 
-**Analysis & modeling**
-Python · R · SQL · Pandas · NumPy · scikit-learn · lifelines
-
-**Clinical statistics**
-Survival analysis (Cox, Kaplan–Meier) · logistic regression · meta-analysis · nomograms · ROC/AUC evaluation
-
-**Tooling**
-Git · Linux · Jupyter · CLI workflows
+- 🫀 Clinical risk prediction (28-day mortality · CVD risk · nomograms)
+- 📉 Survival analysis & time-to-event modeling (Cox · Kaplan–Meier)
+- 🌍 Multi-cohort aging studies (CHARLS · ELSA · HRS · SHARE · LASI · MHAS · KLoSA)
+- 🧫 Solid tumor biomarkers & prediction
+- 🧠 Medical exam knowledge systems (306 西医综合)
 
 ---
 
-## GitHub
+## 📊 GitHub
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrg223344&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&hide_title=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrg223344&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&hide_title=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrg223344&layout=compact&hide_border=true&bg_color=ffffff)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=mrg223344&theme=flat&no-frame=true&margin-w=8&column=5)
+
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mrg223344&theme=github-light&hide_border=true&bg_color=ffffff)
 
 </div>
 
 ---
 
-## Contact
+## 📬 Connect
 
-- GitHub: [github.com/mrg223344](https://github.com/mrg223344)
-- Email: *(to update)*
-- Open to: medical data science, clinical prediction models, aging research
+- 💼 GitHub: [github.com/mrg223344](https://github.com/mrg223344)
+- 🔭 Research site: [124.222.247.34](http://124.222.247.34/)
 
 ---
 
-*In progress.*
+<div align="center">
+
+*From raw cohorts to reproducible evidence — one harmonized dataset at a time.*
+*学无止境*
+
+</div>
