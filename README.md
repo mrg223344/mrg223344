@@ -19,18 +19,20 @@
 
 ---
 
-## 🧭 Research Radar
+## 🛰️ Research Radar · 科研雷达日报
 
-> 每日自动追踪 PubMed / bioRxiv / medRxiv / arXiv 的最新文献，聚焦临床数据库挖掘、预测模型、免疫学、AI4Medicine。
+> 每日自动追踪 PubMed / bioRxiv / medRxiv / arXiv 最新文献，聚焦临床数据库挖掘、预测模型、免疫学与 AI4Medicine。
+> **完整日报**: [research-site · 124.222.247.34](http://124.222.247.34/) · [雷达页](http://124.222.247.34/radar/)
 
-🔭 **科研雷达 (Daily Research Radar)**: [research-site · 124.222.247.34](http://124.222.247.34/)
+### 📡 最新雷达条目
 
-| 板块 | 内容 |
-|------|------|
-| 📡 **科研日报** | 每日文献速递（PubMed / bioRxiv / medRxiv / arXiv）|
-| 🧪 **论文雷达** | 临床数据库挖掘 · 预测模型 · 免疫学指标 · AI4Medicine |
-| 💬 **论文讨论** | 方法与代码交流 |
-| 🗂️ **方法与代码** | 复现管线与工具 |
+| 日期 | 来源 | 文献 |
+|------|------|------|
+| 2026-07-30 | `bioRxiv` | [A pan-cancer single-cell atlas of pericytes](http://124.222.247.34/radar/pan-cancer-pericyte-atlas-2026-07-30) |
+| 2026-07-15 | `github` | [Squidpy: A Framework for Spatial Single-cell Analysis](http://124.222.247.34/radar/squidpy-github-tool) |
+| 2026-07-12 | `journal` | [Pan-cancer Single-cell Atlas Reveals Conserved Macrophage States](http://124.222.247.34/radar/pancancer-macrophage-atlas) |
+| 2026-07-05 | `bioRxiv` | [TREM2+ Macrophages Drive Metastatic Colonization in Liver](http://124.222.247.34/radar/trem2-macrophage-biorxiv) |
+| 2026-06-20 | `arXiv` | [TransUNet++: Transformer-Enhanced Architecture for 3D Medical Image Segmentation](http://124.222.247.34/radar/transunet-pp-arxiv) |
 
 ---
 
@@ -77,7 +79,7 @@ The clinical tools above grew out of a long stretch of web practice repos — th
 ## 📬 Connect
 
 - 💼 GitHub: [github.com/mrg223344](https://github.com/mrg223344)
-- 🔭 Research site: [124.222.247.34](http://124.222.247.34/)
+- 🛰️ Research site: [124.222.247.34](http://124.222.247.34/)
 
 ---
 
