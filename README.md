@@ -1,95 +1,73 @@
 <div align="center">
 
-# 👨‍🔬 Mrg223344
+# Hi, I'm Mrg223344 👋
 
-### *Medical Data Scientist · Clinical Prediction · Health Informatics*
+**Medical data science learner · Clinical prediction models · Coding for health research**
 
 <img src="assets/banner.png" width="100%" alt="Medical Data Science banner"/>
-
-**Turning multi-cohort clinical data into interpretable risk models — one harmonized dataset at a time.**
 
 </div>
 
 ---
 
-## 📋 Research Profile
+## 🙋 About me
 
-> I work at the intersection of **clinical epidemiology** and **machine learning**, building transparent risk-prediction models from harmonized multi-cohort aging data. My work spans survival analysis, meta-analytic methodology, and reproducible research pipelines.
-
-**Research interests:**
-- 🧬 Clinical risk prediction & prognostic modeling
-- 🌍 Multi-cohort data harmonization (CHARLS · ELSA · HRS · SHARE · LASI · MHAS · KLoSA)
-- 📉 Survival analysis & competing-risk models (Cox, KM, HK-adjusted meta-analysis)
-- 🏥 Medical exam knowledge systems (306 西医综合)
+- 🩺 **Background**: Medical student preparing for the postgraduate entrance exam (306 西医综合) — focused on physiology & pathology
+- 📊 **What I do**: Apply data science to clinical questions — building prediction models, analyzing aging cohort data, and learning reproducible research
+- 🧠 **Currently learning**: Survival analysis · meta-analysis · machine learning for medicine
+- 🌱 **Interests**: Clinical risk prediction · medical knowledge systems · health informatics
+- 🎯 **Goal**: Bridge clinical medicine and data science
 
 ---
 
-## 🧬 Featured Projects
+## 🛠️ What I'm building
 
-| Project | Focus | Stack |
-|---------|-------|-------|
-| [**28-day-mortality-risk-predictor**](https://github.com/mrg223344/28-day-mortality-risk-predictor) | Short-term mortality risk prediction | Python · Lifelines |
-| [**FAST-CVD**](https://github.com/mrg223344/FAST-CVD) | Cardiovascular risk assessment | Python · scikit-learn |
-| [**my-vocab-app**](https://github.com/mrg223344/my-vocab-app) | Vocabulary learning tool | HTML · JavaScript |
-
----
-
-## 🔬 Methods & Tools
-
-| Domain | Tools |
-|--------|-------|
-| **Statistics** | R · Python · Stata |
-| **Survival modeling** | lifelines · survival · coxph · wild bootstrap |
-| **Meta-analysis** | DerSimonian-Laird · Hartung-Knapp · leave-one-out diagnostics |
-| **Data engineering** | pandas · NumPy · harmonization pipelines |
-| **Reproducibility** | Git · Docker · CI · reproducible archives |
+| Project | What it is |
+|---------|-----------|
+| [**DiagnoML**](https://github.com/mrg223344/DiagnoML) | Solid tumor biomarkers & prediction platform |
+| [**28-day-mortality-risk-predictor**](https://github.com/mrg223344/28-day-mortality-risk-predictor) | 28-day mortality risk prediction |
+| [**FAST-CVD**](https://github.com/mrg223344/FAST-CVD) | Cardiovascular disease risk assessment |
+| [**web_nomo**](https://github.com/mrg223344/web_nomo) | Nomogram-based clinical prediction |
+| [**my-vocab-app**](https://github.com/mrg223344/my-vocab-app) | Vocabulary learning app |
 
 ---
 
-## 📊 GitHub Analytics
+## 🔬 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Lifelines](https://img.shields.io/badge/Lifelines-2C3E50?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Statistics & modeling**: survival analysis (Cox · KM) · logistic regression · random forest · meta-analysis
+
+---
+
+## 📈 GitHub
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mrg223344&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&hide_title=true&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=mrg223344&show_icons=true&theme=graywhite&hide_border=true&bg_color=ffffff&hide_title=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrg223344&layout=compact&hide_border=true&bg_color=ffffff)
 
 </div>
 
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=mrg223344&theme=flat&no-frame=true&margin-w=8&column=5)
-
-</div>
-
-<div align="center">
-
-![Activity](https://github-readme-activity-graph.vercel.app/graph?username=mrg223344&theme=github-light&hide_border=true&bg_color=ffffff)
-
-</div>
-
 ---
 
-## 📈 Publication Pipeline
+## 📫 Get in touch
 
-```
-Raw cohorts ──▶ Harmonization ──▶ Analysis ──▶ Meta-pooling ──▶ Evidence
-   (7 aging        (z-score        (cohort OLS    (DL + HK        (risk strata,
-    cohorts)        protocol)       + survival)    intervals)       figures)
-```
-
----
-
-## 📫 Contact
-
-- **GitHub**: [github.com/mrg223344](https://github.com/mrg223344)
-- **Email**: *(to update)*
-- **Open to**: clinical data science collaboration & medical ML consulting
+- 💼 GitHub: [github.com/mrg223344](https://github.com/mrg223344)
+- 📧 Email: *(to update)*
+- 💬 Happy to discuss medical data science, prediction models, or anything health-tech
 
 ---
 
 <div align="center">
 
-*From raw cohorts to reproducible evidence — one harmonized dataset at a time.*
+*Learning medicine + data science, one commit at a time.*
 
 </div>
