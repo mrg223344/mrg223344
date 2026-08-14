@@ -1,52 +1,59 @@
 <div align="center">
 
-# Hi, I'm Mrg223344 👋
+# Mrg223344
 
-**Medical data science learner · Clinical prediction models · Coding for health research**
+**Medical student · Clinical data science · preparing for 306 西医综合**
 
-<img src="assets/banner.png" width="100%" alt="Medical Data Science banner"/>
+<img src="assets/banner.png" width="100%" alt="Medical data science banner"/>
 
 </div>
 
 ---
 
-## 🙋 About me
+## About me
 
-- 🩺 **Background**: Medical student preparing for the postgraduate entrance exam (306 西医综合) — focused on physiology & pathology
-- 📊 **What I do**: Apply data science to clinical questions — building prediction models, analyzing aging cohort data, and learning reproducible research
-- 🧠 **Currently learning**: Survival analysis · meta-analysis · machine learning for medicine
-- 🌱 **Interests**: Clinical risk prediction · medical knowledge systems · health informatics
-- 🎯 **Goal**: Bridge clinical medicine and data science
+I'm a medical student working at the intersection of clinical medicine and data science. Right now I'm preparing for the postgraduate entrance exam (306 西医综合 — physiology, pathology), and in parallel I apply data science to clinical questions: building prediction models, analyzing multi-cohort aging data, and learning the methods that make health research reproducible.
+
+I care about work that is both clinically meaningful and methodologically honest — risk tools a clinician could actually use, models evaluated on real heterogeneous data, and analyses others can rerun.
+
+**Focus areas**
+- Clinical risk prediction (28-day mortality, CVD risk, nomograms)
+- Survival analysis & time-to-event modeling
+- Multi-cohort aging studies
+- Solid tumor biomarkers
+
+**In training**: medicine (in progress) · self-taught data science (Python/R) · 学无止境
 
 ---
 
-## 🛠️ What I'm building
+## Selected projects
 
-| Project | What it is |
-|---------|-----------|
+| Project | What it does |
+|---|---|
 | [**DiagnoML**](https://github.com/mrg223344/DiagnoML) | Solid tumor biomarkers & prediction platform |
 | [**28-day-mortality-risk-predictor**](https://github.com/mrg223344/28-day-mortality-risk-predictor) | 28-day mortality risk prediction |
 | [**FAST-CVD**](https://github.com/mrg223344/FAST-CVD) | Cardiovascular disease risk assessment |
 | [**web_nomo**](https://github.com/mrg223344/web_nomo) | Nomogram-based clinical prediction |
 | [**my-vocab-app**](https://github.com/mrg223344/my-vocab-app) | Vocabulary learning app |
 
----
-
-## 🔬 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Lifelines](https://img.shields.io/badge/Lifelines-2C3E50?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Statistics & modeling**: survival analysis (Cox · KM) · logistic regression · random forest · meta-analysis
+The clinical tools above grew out of a long stretch of web practice repos (web1–08, web206, S523 …) — the learning path behind the work.
 
 ---
 
-## 📈 GitHub
+## Skills
+
+**Analysis & modeling**
+Python · R · SQL · Pandas · NumPy · scikit-learn · lifelines
+
+**Clinical statistics**
+Survival analysis (Cox, Kaplan–Meier) · logistic regression · meta-analysis · nomograms · ROC/AUC evaluation
+
+**Tooling**
+Git · Linux · Jupyter · CLI workflows
+
+---
+
+## GitHub
 
 <div align="center">
 
@@ -58,16 +65,12 @@
 
 ---
 
-## 📫 Get in touch
+## Contact
 
-- 💼 GitHub: [github.com/mrg223344](https://github.com/mrg223344)
-- 📧 Email: *(to update)*
-- 💬 Happy to discuss medical data science, prediction models, or anything health-tech
+- GitHub: [github.com/mrg223344](https://github.com/mrg223344)
+- Email: *(to update)*
+- Open to: medical data science, clinical prediction models, aging research
 
 ---
 
-<div align="center">
-
-*Learning medicine + data science, one commit at a time.*
-
-</div>
+*In progress.*
